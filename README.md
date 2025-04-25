@@ -90,7 +90,7 @@ This is a project about our OOP course-build a Dictionary with Java. Our group's
   - BackEnd Develop
   - UI Design
   - UX Develop
-- Nguyen Duc Long [NgDucLong] (https://github.com/NgDucLong): 
+- Nguyen Duc Long [nglong-uet] (https://github.com/nglong-uet): 
   - Version CommandLine Develop
   - Game Application Design
   - Game Application Develop
